@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+avatar: https://photos.google.com/photo/AF1QipMiQ_XvQv2_Fc56VdxFOOVZmcz6lDPhRx5YLVtD
 permalink: /about/
 ---
 
