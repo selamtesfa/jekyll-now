@@ -7,9 +7,18 @@ permalink: /about/
 
 ### More Information
 
-My name is Selam Tesfamariam, and I currently reside in Dallas, Texas. Up until 2017 I was born and raised in Atlanta, Georgia and attended The University of Georgia. Once graduated in 2016, I began my career with Geico as a telephone claims adjuster where I have the opportunity to review and manage complex claims including liability disputes and coverage concerns in the Midwestern region. In 2017 I moved to Dallas, Texas with the same company but began managing claims in the southern region of the U.S. and branched out in working with first party injury claims and special projects regarding interest concerns and budget reviews within these regions. 
+My name is Selam Tesfamariam, and I currently reside in Dallas, Texas. I was born and raised in Atlanta, Georgia and grew up in Gwinnett county with my parents and 2 younger siblings. I then made my way to Athens, GA where I attended The University of Georgia and received my Bachelors in Business Marketing. Once I graduated in 2016, I began my career with Geico at their Midwest Region in MAcon, Ga. After about a year I then made the decision to move to Dallas, Texas with the same company expanding my experience within the Southern region department.
 
-I am currently enrolled in the masters program at the University of Texas in route to obtaining a degree in Social Data Analytics and Research. Through this program I will have the oportunity to learn and gain the concept of Big Data through quantitative and qualitative approaches. This includes gaining skills in data analytics programs such as R, Python, and Tableau etc. 
+### Education
+I am currently enrolled in the masters program at the University of Texas in route to obtaining a degree in Social Data Analytics and Research. Through this program I will have the oportunity to learn and gain the concept of Big Data through quantitative and qualitative approaches. This includes gaining skills in data analytics programs such as R, Python, and Tableau, postgreSQL, Qualtrics, API, and Django. 
+
+### Certificate
+Residental Insurance License
+Workforce Diversity Certificate
+
+### Volunteer
+Mind Blowers
+Big Brother Big Sister
 
 ### Contact me
 
