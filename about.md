@@ -12,13 +12,19 @@ My name is Selam Tesfamariam, and I currently reside in Dallas, Texas. I was bor
 ### Education
 I am currently enrolled in the masters program at the University of Texas in route to obtaining a degree in Social Data Analytics and Research. Through this program I will have the oportunity to learn and gain the concept of Big Data through quantitative and qualitative approaches. This includes gaining skills in data analytics programs such as R, Python, and Tableau, postgreSQL, Qualtrics, API, and Django. 
 
+
+
 ### Certificate
-Residental Insurance License\
+Residental Insurance License
+
 Workforce Diversity Certificate
 
 ### Volunteer
-Mind Blowers\
+Mind Blowers
+
 Big Brother Big Sister
+
+
 
 ### Contact me
 
