@@ -14,10 +14,12 @@ I am currently enrolled in the masters program at the University of Texas in rou
 
 ### Certificate
 Residental Insurance License
+
 Workforce Diversity Certificate
 
 ### Volunteer
 Mind Blowers
+
 Big Brother Big Sister
 
 ### Contact me
