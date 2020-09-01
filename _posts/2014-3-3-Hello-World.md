@@ -3,6 +3,9 @@ layout: post
 title: Welcome!
 ---
 
+![_config.yml]({{ site.baseurl }}/images/config.png)
+
+
 Education
 * University of Georgia BA '16
 * University of Texas MS '21
