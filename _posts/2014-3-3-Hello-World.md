@@ -2,8 +2,7 @@
 layout: post
 title: Welcome!
 ---
-"Whether you come from a council estate or a country estate, your success will be determined by your own confidence and fortitude." 
--- Michelle Obama
+"Whether you come from a council estate or a country estate, your success will be determined by your own confidence and fortitude." -- Michelle Obama
 
 
 
