@@ -10,17 +10,10 @@ title: Welcome!
 
 
 
-
-
-
-
-
-
-
-Education
+## Education
 * University of Georgia BA '16
 * University of Texas MS '21
 
-Work
+## Work
 * Geico, Dallas, TX.
 
