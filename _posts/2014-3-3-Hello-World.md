@@ -3,6 +3,8 @@ layout: page
 title: Welcome!
 ---
 
+avatar: images/160418_SelamTGrad28.png
+
 
 Education
 * University of Georgia BA '16
