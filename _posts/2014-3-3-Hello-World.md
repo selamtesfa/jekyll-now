@@ -1,9 +1,20 @@
 ---
-layout: page
+layout: post
 title: Welcome!
 ---
 
 avatar: images/160418_SelamTGrad28.png
+
+
+
+
+
+
+
+
+
+
+
 
 
 Education
@@ -11,5 +22,5 @@ Education
 * University of Texas MS '21
 
 Work
-* Geico, Dallas, Tx.
+* Geico, Dallas, TX.
 
