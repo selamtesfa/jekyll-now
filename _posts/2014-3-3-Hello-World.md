@@ -3,7 +3,10 @@ layout: post
 title: Welcome!
 ---
 
-avatar: images/160418_SelamTGrad28.png
+
+"Whether you come from a council estate or a country estate, your success will be determined by your own confidence and fortitude." 
+
+- Michelle Obama
 
 
 
