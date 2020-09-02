@@ -5,7 +5,7 @@ avatar: images/160418_SelamTGrad28.png
 permalink: /about/
 ---
 
-### More Information
+### Background
 
 My name is Selam Tesfamariam, and I currently reside in Dallas, Texas. I was born and raised in Atlanta, Georgia and grew up in Gwinnett county with my parents and 2 younger siblings. I then made my way to Athens, GA where I attended The University of Georgia and received my Bachelors in Business Marketing. Once I graduated in 2016, I began my career with Geico at their Midwest Region in Macon, Ga. After about a year I then made the decision to move to Dallas, Texas with the same company expanding my experience within the Southern region department.
 
