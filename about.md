@@ -12,6 +12,12 @@ My name is Selam Tesfamariam, and I currently reside in Dallas, Texas. I was bor
 ### Education
 I am currently enrolled in the masters program at the University of Texas in route to obtaining a degree in Social Data Analytics and Research. Through this program I will have the oportunity to learn and gain the concept of Big Data through quantitative and qualitative approaches. This includes gaining skills in data analytics programs such as R, Python, and Tableau, postgreSQL, Qualtrics, API, and Django. 
 
+## Education
+* University of Georgia BA '16
+* University of Texas MS '21
+
+## Work
+* Geico, Dallas, TX.
 
 
 ### Certificate
