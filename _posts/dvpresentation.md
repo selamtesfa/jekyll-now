@@ -5,4 +5,5 @@ title: Business and Social Media Scraping
 ---
 
 
-![_config.yml]({{ site.baseurl }}/_posts/final presentation.pdf
+![_config.yml]({{ site.baseurl }}/images/SelamTPresentation.pdf
+
